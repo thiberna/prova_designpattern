@@ -8,6 +8,7 @@ public class GlobalConfig {
             instance = new GlobalConfig();
         }
         return instance;
+        /* */
     }
     private String designPattern;
     private String designPattern2;
